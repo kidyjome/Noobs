@@ -1,2 +1,3 @@
 # Noobs
-this is first repository
+this is first repositor
+ # bash
